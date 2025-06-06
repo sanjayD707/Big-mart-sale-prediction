@@ -72,4 +72,4 @@ The app returns the **predicted sales** after processing this data with the trai
 - Age of Outlet: 15
 
 **Output**:
-Predicted Sales: ₹ 3689.22
+Predicted Sales : ₹ 3689.22
